@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.3064d3b8.css",
+    "main.js": "/react-portfolio/static/js/main.15a054ae.js",
+    "static/media/slide1.webp": "/react-portfolio/static/media/slide1.14619b040f52684f1d90.webp",
+    "static/media/profile.png": "/react-portfolio/static/media/profile.042eadcb5782c076934e.png",
+    "static/media/background.webp": "/react-portfolio/static/media/background.f68146215cd63c0647c5.webp",
+    "static/media/netlify-icon.svg": "/react-portfolio/static/media/netlify-icon.e6ca38742e24439dea82634b53789a9e.svg",
+    "static/media/react.svg": "/react-portfolio/static/media/react.add74742e9e8f8827f7fa666dca760db.svg",
+    "static/media/react-bootstrap.svg": "/react-portfolio/static/media/react-bootstrap.534ba5749ea53d6d943b273291be8174.svg",
+    "static/media/sass-1.svg": "/react-portfolio/static/media/sass-1.8aa78a8393470431c8036541f0708bd7.svg",
+    "static/media/css3.svg": "/react-portfolio/static/media/css3.8fba365c2c5824342874c7a674943eb8.svg",
+    "static/media/heroku.svg": "/react-portfolio/static/media/heroku.73be03b36a36dcffd909327a314c859b.svg",
+    "static/media/redux.svg": "/react-portfolio/static/media/redux.0e4fb1c819ac4c060c92343147d4ccf7.svg",
+    "index.html": "/react-portfolio/index.html",
+    "static/media/bootstrap-4.svg": "/react-portfolio/static/media/bootstrap-4.997c463dca63c915b9a51f1caedef8e1.svg",
+    "static/media/github.svg": "/react-portfolio/static/media/github.c66b3c5adf421e87b1c707ba58321163.svg",
+    "static/media/html-5.svg": "/react-portfolio/static/media/html-5.821ba738922e8952e57422f7b8a20362.svg",
+    "static/media/javascript.svg": "/react-portfolio/static/media/javascript.ba40d6a9629bf521391e764a593f9df3.svg",
+    "static/media/git-icon.svg": "/react-portfolio/static/media/git-icon.c60b7e5ae8ec2562f23fdddcab300026.svg",
+    "static/media/tailwindcss-icon.svg": "/react-portfolio/static/media/tailwindcss-icon.017e1e304e12384d156d384f40a4b5f8.svg",
+    "static/media/firebase-icon.svg": "/react-portfolio/static/media/firebase-icon.82a35fc0b90d124a8e7333989f767fd3.svg",
+    "static/media/material-ui-1.svg": "/react-portfolio/static/media/material-ui-1.fd510ed8518b192069590b04e2e6348a.svg",
+    "static/media/logo-vercel.svg": "/react-portfolio/static/media/logo-vercel.32c29364e8c839bea90faa7b02221f15.svg",
+    "main.3064d3b8.css.map": "/react-portfolio/static/css/main.3064d3b8.css.map",
+    "main.15a054ae.js.map": "/react-portfolio/static/js/main.15a054ae.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3064d3b8.css",
+    "static/js/main.15a054ae.js"
+  ]
+}
